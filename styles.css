@@ -1,2 +1,72 @@
 
 /* Your CSS Code here. */
+body {
+			background-color: #F7E9DC;
+			font-family: Arial, sans-serif;
+			color: #333333;
+			margin: 0;
+			padding: 0;
+		}
+
+		header {
+			background-color: #F1B24A;
+			color: white;
+			padding: 20px;
+			text-align: center;
+			font-size: 36px;
+		}
+
+		nav {
+			background-color: #F1B24A;
+			color: white;
+			padding: 10px;
+			font-size: 24px;
+			text-align: center;
+			margin-bottom: 20px;
+		}
+
+		nav a {
+			color: white;
+			text-decoration: none;
+			margin: 10px;
+		}
+
+		nav a:hover {
+			text-decoration: underline;
+		}
+
+		summary {
+			font-size: 18px;
+			padding: 20px;
+			border: 1px solid #DDDDDD;
+			margin-bottom: 20px;
+		}
+
+		section {
+			margin: 20px;
+			padding: 20px;
+			border: 1px solid #DDDDDD;
+		}
+
+		section h2 {
+			font-size: 24px;
+			margin-top: 0;
+		}
+
+		aside {
+			background-color: #F1B24A;
+			color: white;
+			padding: 20px;
+			text-align: center;
+			font-size: 18px;
+			margin-bottom: 20px;
+		}
+
+		footer {
+			background-color: #F1B24A;
+			color: white;
+			padding: 10px;
+			text-align: center;
+			font-size: 14px;
+			margin-top: 20px;
+		}
